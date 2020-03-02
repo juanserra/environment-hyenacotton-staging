@@ -4,7 +4,7 @@ dependencies:
   version: 0.0.186
 - name: dreamteam-public-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.631
+  version: 0.0.637
 - alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
