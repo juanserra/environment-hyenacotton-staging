@@ -20,4 +20,4 @@ dependencies:
 - alias: dreamteam-public-api-b
   name: dreamteam-public-api
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.655
+  version: 0.0.686
